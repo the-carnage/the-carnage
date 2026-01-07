@@ -1,100 +1,38 @@
-# 👋 Hi, I'm Mehebub Alom
+# Hi, I'm Mehebub Alom
 
-🎓 **B.Tech CSE (AI & ML)** @ Newton School of Technology, ADYPU (2024–2028)  
-💻 **Full-Stack Developer | Competitive Programmer | Robotics Enthusiast**  
-🚀 Passionate about building fast, scalable systems and AI-driven products
+Computer Science undergraduate specializing in **AI & Machine Learning** at **Newton School of Technology (ADYPU)**.  
+Interested in **software engineering, algorithms, full-stack development, and applied AI systems**.
 
----
-
-## 🧠 About Me
-
-I’m a **full-stack developer and competitive programmer** with a strong algorithmic mindset.  
-I enjoy translating complex problem-solving into **clean, efficient, user-centric software**.
-
-I also work hands-on with **robotics**, combining intelligent software architectures with real-world hardware control systems.
-
-Currently exploring:
-- ⚡ High-performance web architectures
-- 🤖 AI & LLM-based applications
-- 🧩 System design + DSA for scale
+I focus on writing **efficient, scalable code** with strong fundamentals in **data structures and problem solving**, and I actively explore **robotics and hardware–software integration**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
+**B.Tech – Computer Science (AI & ML)**  
+Newton School of Technology (ADYPU), Pune  
+2024 – 2028 | CGPA: **8.2 / 10**
 
-### 👨‍💻 Programming Languages
-- **Python**, **C++**, **JavaScript**, **TypeScript**
-- SQL, HTML, CSS
+---
 
-### 🌐 Web & Backend
-- React, Node.js, Express.js
-- Django, Prisma ORM
-- MongoDB, MySQL
-- OAuth 2.0, Supabase
+## 💻 Skills
 
-### 📊 Data & AI
-- NumPy, Pandas
-- OpenCV
-- Hugging Face, LLMs
-
-### 🧰 Tools & Platforms
-- Git & GitHub
-- Postman
-- Linux / Windows
-- React Native
+**Languages:** Python, C++, JavaScript, TypeScript, SQL  
+**Web & Backend:** React, Node.js, Express.js  
+**Databases:** MongoDB, MySQL, Prisma ORM  
+**Data & AI:** NumPy, Pandas, OpenCV, Hugging Face, LLMs  
+**Tools:** Git & GitHub, Postman, Linux/Windows, Supabase, OAuth 2.0
 
 ---
 
 ## 🚀 Projects
 
-### 📄 **Docurizzer**
-🔗 GitHub | Demo  
-- AI-powered document summarizer using **T5-Small**
-- Supports **text, documents, and images**
-- Built with **Streamlit**, deployed on **Hugging Face**
+Built multiple software projects including:
+- An **AI-powered document summarizer** using a T5-based model, deployed on Hugging Face  
+- A **web-based online compiler** supporting Python, C++, and JavaScript with runtime input  
+- A **full-stack mobile diary application** with authentication and database integration
 
 ---
 
-### 🧑‍💻 **Online Compiler**
-🔗 GitHub | Demo  
-- Online compiler for **Python, C++, and JavaScript**
-- Supports custom input & real-time execution
-- Focused on speed, isolation, and reliability
-
----
-
-### 📱 **Rozz**
-🔗 GitHub  
-- Full-stack **Diary Mobile App**
-- Users can write, read, edit, and delete daily logs
-- Includes database integration and authentication
-
----
-
-## 🏆 Certifications
-
-- **Adobe India Hackathon – 2025**  
-  Demonstrated problem-solving, teamwork, and real-world engineering skills
-
----
-
-## 🤖 Interests
-
-- Robotics & embedded systems
-- Competitive programming
-- AI-driven products
-- System architecture & performance optimization
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **mehebub.alom@adypu.edu.in**
-- 💼 LinkedIn: *(add link)*
-- 🧠 Codeforces: *(add link)*
-- 🧩 LeetCode: *(add link)*
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
-
+## 📫 Contact
+📧 mehebub.alom@adypu.edu.in  
+🔗 GitHub | LinkedIn | Codeforces | LeetCode
